@@ -44,5 +44,5 @@
 
 ## 버전관리
  - git master branch 
-## 웹 배포 
+## 웹 배포 (netlify) 사용 
  - https://app.netlify.com/sites/agitated-meninsky-5d3a0c/settings/general
